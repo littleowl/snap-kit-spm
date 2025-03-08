@@ -37,7 +37,7 @@ let package = Package(
             path: "SCSDKCreativeKit.xcframework"
         ),
         .target(
-            name: "SCSDKCoreKit",
+            name: "SCSnapKit",
             dependencies: [
                 "SCSDKCoreKit",
                 "SCSDKLoginKit",
